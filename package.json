@@ -98,7 +98,7 @@
     "rollup-plugin-dts": "^4.2.1"
   },
   "devDependencies": {
-    "@types/jest": "27.4.1",
+    "@types/jest": "27.5.2",
     "@types/js-yaml": "4.0.5",
     "@types/semver": "7.3.9",
     "@umidbekk/configs": "0.2.0",
@@ -107,7 +107,7 @@
     "eslint": "8.14.0",
     "eslint-plugin-node": "11.1.0",
     "husky": "7.0.4",
-    "jest": "28.0.1",
+    "jest": "28.1.2",
     "jest-watch-typeahead": "1.1.0",
     "lint-staged": "12.4.1",
     "lodash": "4.17.21",
